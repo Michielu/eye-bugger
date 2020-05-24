@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Eye Bugger",
+    "description": "This extension will enlarge eyes on faces",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "eye-icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
